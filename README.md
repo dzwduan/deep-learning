@@ -1,6 +1,6 @@
-# basic in the Udacity project , rewrite with tensorflow and gluon version.
+#  Udacity project rewrite with tensorflow and gluon version.
 
-## Next is the order of the tutorial
+##    Next is the order of the tutorial
 
 ### Tutorials
 
